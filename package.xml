@@ -2,7 +2,7 @@
 <package>
   <name>odom_to_pose_covariance</name>
   <version>0.0.0</version>
-  <description>The osom_to_pose_covariance package</description>
+  <description>The odom_to_pose_covariance package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
